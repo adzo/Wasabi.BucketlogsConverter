@@ -40,7 +40,7 @@ to specify multiple files, add the `--similar` argument to your command as follo
 ```
 
 ![help page](screenshots/multiple_new_files.jpg) 2. override the same file / create a new file:
-You can use the _--override_ flag to override the same file. If this flag isn't present, a new file will be created at the same location with the CSV extention and the current date:
+You can use the `--override`flag to override the same file. If this flag isn't present, a new file will be created at the same location with the CSV extention and the current date:
 
 ```
  python ConvertLogs.py --path .\logs\log_file_example

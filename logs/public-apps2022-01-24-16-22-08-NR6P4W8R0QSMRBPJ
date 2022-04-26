@@ -1,0 +1,4 @@
+Record format: [BucketOwner Bucket Time RemoteIP Requester RequestId Operation Key Request-URI HttpStatus/ErrorCode BytesSent ObjectSize TotalTime Turn-AroundTime Referrer User-Agent VersionId] 
+ =========================================================================================================================================================
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [24/Jan/2022:16:21:58 +0000] 10.19.1.234 02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 5B8C35985F23BBAF REST.HEAD.BUCKET - "HEAD /" 200 - - 0 28 5 "" "MSP360/Wasabi Explorer/6.2.0" -
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [24/Jan/2022:16:21:59 +0000] 10.19.1.234 02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 4A9CF8BABAEA27BB REST.GET.BUCKET - "GET /?delimiter=%2F&max-keys=1000&prefix=" 200 - 326 0 1 1 "" "MSP360/Wasabi Explorer/6.2.0" -

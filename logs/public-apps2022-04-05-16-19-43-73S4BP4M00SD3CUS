@@ -1,0 +1,3 @@
+Record format: [BucketOwner Bucket Time RemoteIP Requester RequestId Operation Key Request-URI HttpStatus/ErrorCode BytesSent ObjectSize TotalTime Turn-AroundTime Referrer User-Agent VersionId] 
+ =========================================================================================================================================================
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [05/Apr/2022:16:03:05 +0000] 197.15.54.190 Anonymous 4C9E161E6E0FA3AB REST.GET.OBJECT 39_26_part_32022-02-23_10h44m23.wav "GET /public-apps/39_26_part_32022-02-23_10h44m23.wav" 200 - - 420828046 996154 9 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" -

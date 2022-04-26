@@ -1,0 +1,3 @@
+Record format: [BucketOwner Bucket Time RemoteIP Requester RequestId Operation Key Request-URI HttpStatus/ErrorCode BytesSent ObjectSize TotalTime Turn-AroundTime Referrer User-Agent VersionId] 
+ =========================================================================================================================================================
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [14/Jan/2022:15:34:39 +0000] 10.1.113.232 Anonymous 5AB58F25B4EF42CD REST.GET.BUCKET - "GET /" 307 TemporaryRedirect - 0 5 5 "" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)" -

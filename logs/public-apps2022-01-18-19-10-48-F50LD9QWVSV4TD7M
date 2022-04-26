@@ -1,0 +1,5 @@
+Record format: [BucketOwner Bucket Time RemoteIP Requester RequestId Operation Key Request-URI HttpStatus/ErrorCode BytesSent ObjectSize TotalTime Turn-AroundTime Referrer User-Agent VersionId] 
+ =========================================================================================================================================================
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [18/Jan/2022:19:08:46 +0000] 10.19.1.231 Anonymous 94B60F2DAF3547A7 REST.GET.OBJECT favicon.ico "GET /public-apps/favicon.ico" 200 - - 0 25 5 "" "curl/7.80.0" -
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [18/Jan/2022:19:08:56 +0000] 10.19.1.231 Anonymous 1A226B9591668BD5 REST.GET.OBJECT favicon.ico "GET /public-apps/favicon.ico" 200 - - 0 8 0 "" "curl/7.80.0" -
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382 public-apps [18/Jan/2022:19:10:44 +0000] 10.19.1.233 Anonymous C94D7D787C9523B3 REST.GET.OBJECT favicon.ico "GET /public-apps/favicon.ico" 200 - - 0 26 6 "" "curl/7.80.0" -

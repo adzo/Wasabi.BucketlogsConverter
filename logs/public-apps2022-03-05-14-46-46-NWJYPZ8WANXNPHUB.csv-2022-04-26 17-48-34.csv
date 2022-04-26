@@ -1,0 +1,3 @@
+sep=,
+BucketOwner,Bucket,Time,RemoteIP,Requester,RequestId,Operation,Key,Request-URI,HttpStatus,ErrorCode,BytesSent,ObjectSize,TotalTime,Turn-AroundTime,Referrer,User-Agent,VersionId
+02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382,public-apps,05/Mar/2022:14:46:39,+0000,197.0.253.128,02952130CC4546D232DAD0B6D139E6E5833A087C40C64ABA4357A232DEBF7382,05BEDBA36C9E0E84,REST.GET.BUCKET,-,"GET /public-apps/?delimiter=%2F&max-keys=1000&prefix=",301,PermanentRedirect,-,0,241,37,"","S3 Browser/10.3.1 (https://s3browser.com)",-
